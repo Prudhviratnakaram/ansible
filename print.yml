@@ -1,4 +1,4 @@
-name : myfirstplaybook
+-name : myfirstplaybook
 hosts : all
 tasks :
   -name : print hello
